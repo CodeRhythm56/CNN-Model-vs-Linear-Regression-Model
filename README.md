@@ -29,7 +29,7 @@ A machine learning project comparing **Logistic Regression (One-vs-All)** and **
 
 ## View Notebook
 
-**[Open Handwritten_Digit_Recognition.ipynb](./Handwritten_Digit_Recognition.ipynb)**
+**[Open Handwritten_Digit_Recognition.ipynb](./HandwrittenDigitRecognision.ipynb)**
 
 ## Requirements
 
